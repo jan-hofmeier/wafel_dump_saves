@@ -1,10 +1,10 @@
-# wafel_payloader
+# wafel_dump_saves
 
-This plugin installs a few different trampolines to call C functions to influence function calls inside IOSU, to print and influence the register state at almost arbitrary locations and to just run something at a specific point in mcpThreadEntry for example
+This plugin copies the saves from the mlc to the sd
 
 ## How to use
 
-- Copy the `wafel_trampoline.ipx` to `/wiiu/ios_plugins`
+- Copy the `wafel_dump_saves.ipx` to `/wiiu/ios_plugins`
 
 ## Building
 
